@@ -86,6 +86,10 @@ Connect with an API for dynamic questions.
 
 Add leaderboard and scoring system.
 
+
+
+__________________________________
+
 👨‍💻 Author
 
 Developed by KHURRAM SAEED.
