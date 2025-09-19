@@ -20,9 +20,9 @@ An interactive and modern Flutter quiz app where users can test their knowledge 
 
 Screenshots :
 
-![image alt](image_https://github.com/khurramdevs/CodeAlpha_FlashCard_Quiz_App/blob/ab1c7d02fc185e3bbdd31cb6e1ddcdfb30b6781e/Q1.PNG)
-![image alt](image_https://github.com/khurramdevs/CodeAlpha_FlashCard_Quiz_App/blob/ab1c7d02fc185e3bbdd31cb6e1ddcdfb30b6781e/Q2.PNG)
-![image alt](image_https://github.com/khurramdevs/CodeAlpha_FlashCard_Quiz_App/blob/ab1c7d02fc185e3bbdd31cb6e1ddcdfb30b6781e/Q3.PNG)
+![image alt](https://github.com/khurramdevs/CodeAlpha_FlashCard_Quiz_App/blob/ab1c7d02fc185e3bbdd31cb6e1ddcdfb30b6781e/Q1.PNG)
+![image alt](https://github.com/khurramdevs/CodeAlpha_FlashCard_Quiz_App/blob/ab1c7d02fc185e3bbdd31cb6e1ddcdfb30b6781e/Q2.PNG)
+![image alt](https://github.com/khurramdevs/CodeAlpha_FlashCard_Quiz_App/blob/ab1c7d02fc185e3bbdd31cb6e1ddcdfb30b6781e/Q3.PNG)
 
 ________________________________________________________________________________________________________
 
